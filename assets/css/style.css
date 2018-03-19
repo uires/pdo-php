@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+}
+
+input{
+	margin: auto;
+	
+}
+form{
+	text-align: center;
+}
+table{
+	margin: auto;
+	border: 1px solid black;
+}
+tr td{
+	margin-left: 10px;
+	border: 1px solid black;
+}
+.text-danger{
+	text-align: center;
+	color: red;
+}
+.listagem-dados{
+	margin: auto;
+}
+a{
+	text-align: center;
+}
+.listagem-dados a,
+.listagem-dados td{
+	margin-left: 10px;
+}
+
+
